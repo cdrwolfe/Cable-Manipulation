@@ -1,0 +1,5 @@
+This set of experiments uses the horizontal grid cable assembly test rig.
+
+Order of assembly: The cable is assembled from one column fixture to another, but the turn 'hieght' can vary, altering the bend radius
+
+Error: None, but altering the chosen slot to enter and leave in changes the radius of the bend for the wire.

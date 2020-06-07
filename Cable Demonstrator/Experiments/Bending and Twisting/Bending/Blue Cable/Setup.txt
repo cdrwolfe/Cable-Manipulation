@@ -1,0 +1,5 @@
+This set of experiments uses the horizontal cable assembly test rig.
+
+Order of assembly: The cable is assembled in the correct sequence however the cable is bent and kinked dursing the process
+
+Error: The cable is bent and kinked at random times during the process, these can range in size, shape and speed.

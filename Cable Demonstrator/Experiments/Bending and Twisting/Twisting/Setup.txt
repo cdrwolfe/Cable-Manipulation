@@ -1,0 +1,5 @@
+This set of experiments uses the horizontal grid cable assembly test rig.
+
+Order of assembly: The cable is assembled from one the left fixture to the right fixture, and then around to the bottom row fixtures
+
+Error: None, but the cable is twisted before inserting into the right side fixture
