@@ -1,0 +1,5 @@
+This set of experiments uses the flat cable assembly test rig.
+
+Order of assembly: Only one cable is used and it is manipulated into three additional slot fixtures, ending on the black one.
+
+Error: No errors introduced, the cable is manipulated into each of the two fixtures one by one, with no kinks or twists of the cable during the process.
