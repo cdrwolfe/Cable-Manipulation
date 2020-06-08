@@ -1,0 +1,5 @@
+This set of experiments uses the vertical cable assembly test rig.
+
+Order of assembly: Red -> White -> Blue
+
+Error: Cable fixture '2' of the blue cable is missed / ignored during assembly. All other cables are correctly processed

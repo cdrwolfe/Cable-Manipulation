@@ -1,0 +1,5 @@
+This set of experiments uses the vertical cable assembly test rig.
+
+Order of assembly: Red -> White -> Blue
+
+Error: No errors introduced, each cable is slotted into the fixtures in the correct sequence.
