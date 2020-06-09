@@ -1,0 +1,5 @@
+This set of experiments uses the vertical cable assembly test rig.
+
+Order of assembly: Random i.e The order in which cables are manipulated changes between runs and can jump from one slot fixation for one cable to another
+
+Error: No errors introduced, each cable is slotted into the fixtures in the correct sequence, however manipulation may jump between differant cables during this process

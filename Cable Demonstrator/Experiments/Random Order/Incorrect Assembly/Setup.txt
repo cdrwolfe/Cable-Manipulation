@@ -1,0 +1,5 @@
+This set of experiments uses the vertical cable assembly test rig.
+
+Order of assembly: Random i.e The order in which cables are manipulated changes between runs and can jump from one slot fixation for one cable to another
+
+Error: Cable fixture '2' of the blue cable is missed / ignored during assembly. All other cables are correctly processed, even if out of sequence.
