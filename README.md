@@ -24,8 +24,20 @@ How the hand interacts with the cable directly or through the tool is also an im
 # Other Work and Related Material:
 This section includes other work, or related material of interest to researchers or practitioners in this area.
 
+
+**Pytorch Repositories:**   
+https://github.com/rwightman/pytorch-image-models
+
+
 # Bibliography
 A list of useful literature, though not exactly exhaustive, where useful links to other repositories or groups who have collated their own lists of relevent material are included.
+
+**Hand detection:**  
+Vision-based hand pose estimation: A review
+https://www.cse.unr.edu/~bebis/handposerev.pdf
+
+
+
 
 
 
