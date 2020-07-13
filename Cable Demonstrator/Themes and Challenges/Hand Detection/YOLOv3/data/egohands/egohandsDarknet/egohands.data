@@ -1,0 +1,4 @@
+classes=4
+train=data/egohands/egohandsDarknet/imagesets/train.txt
+valid=data/egohands/egohandsDarknet/imagesets/test.txt
+names=data/egohands/egohandsDarknet/egohands.names
